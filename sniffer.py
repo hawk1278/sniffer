@@ -1,6 +1,10 @@
 import socket
 import os
 
+"""
+Simple traffic sniffer
+"""
+
 # host to listen
 HOST = '0.0.0.0'
 
